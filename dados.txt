@@ -1,11 +1,11 @@
-Dados do aluno
+Dados do aluno : alteraçao para exercício
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: lucas costa
+-Profissão: comerciante
+-Cidade:itaboraí
+-O que faz nas horas vaga: estudo
+-Feedback sobre o curso Qualidade de Software: estou gostando
+-Feedback sobre a plataforma de estudo da EBAC: é boa
 
 Obrigado!!!
 
